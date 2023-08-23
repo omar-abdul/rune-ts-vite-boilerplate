@@ -1,3 +1,3 @@
-# Guess the Word Games
+# RUNE VITE TS STARTER TEMPLATE
 
-# MIT LICENSE
+### MIT LICENSE
